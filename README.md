@@ -3,6 +3,7 @@
 </div>
 
 <br>
+<h3 align="center">🤜 My Introduction 🤛</h3>
 <div align="center" style="text-align: center;">
   <h3>안녕하세요 함께 즐기고 성장하는 개발자가 되고 싶습니다. </h3>
   <p>I want to be a developer who enjoys working and growing together with others.</p>

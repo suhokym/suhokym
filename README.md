@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot" />
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs3&logoColor=white" alt="node.js" />
 </div>
 
 

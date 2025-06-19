@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-[  <img src="https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=JAVA"/>
+  <img src="https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=000000" alt="c" />
 </div>
 

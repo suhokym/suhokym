@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" alt="JAVA"/>
+  <img src="https://img.shields.io/badge/?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" alt="JAVA"/>
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />
 </div>
 

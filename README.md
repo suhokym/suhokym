@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="[https://velog.io/@oka1313](https://www.instagram.com/protector_kim)">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/instagram-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" alt="instagram" />
   </a>
   <a href="mailto:suhokym@gmail.com">
     <img src="https://img.shields.io/badge/suhokym@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />

@@ -3,7 +3,7 @@
 </div>
 
 <br>
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
   <h2>안녕하세요 함께 즐기고 성장하는 개발자가 되고 싶습니다. </h2>
   <h3>I want to be a developer who enjoys working and growing together with others.</h3>
 </div>

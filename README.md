@@ -1,12 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=HELLO%20THERE-nl-I’m%20Suho%20Kim,%20a%20developer%20who%20loves%20climbing.&fontSize=35)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhokym&layout=compact)
 
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="Profile Image" />
-</div>
-
----
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -61,6 +55,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" alt="VSCode" />
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" alt="Jupyter" />
+</div>
+
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhokym&layout=compact)
 </div>
 
 <br>

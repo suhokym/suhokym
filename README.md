@@ -4,8 +4,8 @@
 
 <br>
 <div align="center" style="text-align: center;">
-  <p>안녕하세요 함께 즐기고 성장하는 개발자가 되고 싶습니다. </p>
-  <h3>I want to be a developer who enjoys working and growing together with others.</h3>
+  <h3>안녕하세요 함께 즐기고 성장하는 개발자가 되고 싶습니다. </h3>
+  <p>I want to be a developer who enjoys working and growing together with others.</p>
 </div>
 
 <br>

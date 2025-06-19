@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/intellijidea-08253c.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" alt="intellijidea" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 

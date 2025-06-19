@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhokym&layout=compact" alt="Top Langs">
-</div>
+
 
 <br>
 
@@ -26,6 +24,12 @@
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhokym&layout=compact" alt="Top Langs">
 </div>
 
 <br>

@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhokym&layout=compact" alt="Top Langs">
+</div>
 
 <br>
 
@@ -57,9 +60,7 @@
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" alt="Jupyter" />
 </div>
 
-<div align="center">
-   (https://github-readme-stats.vercel.app/api/top-langs/?username=suhokym&layout=compact)
-</div>
+
 
 <br>
 
